@@ -134,8 +134,6 @@ This allows users to move between sections of the website easily from any page.
 Conclusion
 ============================
 
-<<<<<<< HEAD
 This project demonstrates clean HTML5 structure, semantic layout, valid form handling, and accessibility practices. It sets a strong foundation for styling and interactivity in the next stages using CSS and JavaScript.
-=======
-This project demonstrates clean HTML5 structure, semantic layout, valid form handling, and accessibility practices. It sets a strong foundation for styling and interactivity in the next stages using CSS and JavaScript.
->>>>>>> f34ec159f042529c6053ed7411974d8e23ab3b3b
+
+
